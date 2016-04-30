@@ -222,7 +222,7 @@ var skolekart = function(key){
         topDiv.appendChild(floatDiv);
         topDiv.appendChild(alertDiv);
 
-        var kretsnode = document.getElementById("skolekrets");
+        var kretsnode = document.getElementById("skolekart");
         kretsnode.parentNode.insertBefore(topDiv,kretsnode);
 
         initMap();
