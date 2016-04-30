@@ -1,4 +1,4 @@
-(function(){
+var skolekart = function(key){
     var directionsDisplay;
     var directionsService;
     //var resources;
@@ -6,7 +6,7 @@
     var jsonCoords = [];
     var schools = [];
     var searchUrl = "https://maps.googleapis.com/maps/api/geocode/json";
-    var apiKey = "AIzaSyDMI9DRbFB5JTvSUzKVv8y77Y2Ee5kzc5Q";
+    var apiKey = key;
     var map;
     var overlays = [];
 
@@ -256,4 +256,4 @@
         
         document.head.appendChild(css);
     };
-})();
+};
