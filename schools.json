@@ -1,0 +1,84 @@
+[
+    {
+        "name":"Framtun barneskole",
+        "lng":11.40957724,
+        "lat":60.06082652,
+        "public":true
+    },
+    {
+        "name":"Årnes barneskole",
+        "lng":11.4763333,
+        "lat":60.12959099,
+        "public":true
+    },
+    {
+        "name":"Runni Ungdomsskole",
+        "lng":11.47824459,
+        "lat":60.1301032,
+        "public":true
+    },
+    {
+        "name":"Østgård barneskole",
+        "lng":11.53125675,
+        "lat":60.11929003,
+        "public":true
+    },
+    {
+        "name":"Auli barneskole",
+        "lng":11.358377,
+        "lat":60.03480988,
+        "public":true
+    },
+    {
+        "name":"Fenstad barneskole",
+        "lng":11.39990117,
+        "lat":60.21517858,
+        "public":true
+    },
+    {
+        "name":"Skogbygda barneskole",
+        "lng":11.51527684,
+        "lat":60.22874301,
+        "public":true
+    },
+    {
+        "name":"Neskollen barneskole",
+        "lng":11.33912971,
+        "lat":60.12564592,
+        "public":true
+    },
+    {
+        "name":"Fjellfoten barneskole",
+        "lng":11.47497797,
+        "lat":60.09309013,
+        "public":true
+    },
+    {
+        "name":"Vormsund ungdomsskole",
+        "lng":11.42788874,
+        "lat":60.15883022,
+        "public":true
+    },
+    {
+        "name":"Nes videregående skole",
+        "lng":11.47996288,
+        "lat":60.12494154,
+        "public":true
+    },
+    {
+        "name":"Hvam videregående skole",
+        "lng":11.37543418,
+        "lat":60.10427559,
+        "public":true
+    },
+    {
+        "name":"Montesori Brårud",
+        "lng":11.3320337,
+        "lat":60.21257182,
+        "public":false
+    }
+]
+    
+
+
+
