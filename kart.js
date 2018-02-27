@@ -14,7 +14,7 @@ var skolekart = function(key){
         var div = $("#alertDiv");
         div.text(text);
         div.toggle();
-    }
+    };
 
     var initMap = function(){
         map = new google.maps.Map(document.getElementById('map'), {
@@ -228,7 +228,7 @@ var skolekart = function(key){
         initMap();
     }
         
-    window.onload = function(){
+    document.addEventListener("DOMContentLoaded", function(event) { 
         console.log("onload");
         jqueryurl="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js";
         googleurl="https://maps.googleapis.com/maps/api/js?libraries=geometry&key="+apiKey;
@@ -255,5 +255,5 @@ var skolekart = function(key){
         css.href = "./kart.css";
         
         document.head.appendChild(css);
-    };
+    });
 };
