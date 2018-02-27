@@ -1,4 +1,6 @@
 var skolekart = function(key){
+    console.log("skolekart created");
+    
     var directionsDisplay;
     var directionsService;
     //var resources;
